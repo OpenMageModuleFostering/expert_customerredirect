@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Expert_CustomerRedirect",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "The Extension Provide function to redirect Customer after login or Create account.",
+    "authors": [
+    {
+        "name": "Suraj Kumawat",
+        "email": "coderz.expert@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
